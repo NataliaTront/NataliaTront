@@ -21,6 +21,20 @@ I decide to return a full time job but it didn't take long time because I had he
 I think that my past experience gave me strong soft skills to doing software testing.
 
 ## 📖 Courses
-1.  [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/about)
+1. [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/about)
 2. [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania)
 3. [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
+
+## SKILLS/TECHNOLOGIES
+- English - B2
+- JIRA/Confluence
+- TestLink
+- Postman
+- Git
+- BrowserStack
+- PicPick
+- Sharex
+- Browser plug-ins: PerfectPixel, ColorZilla, WhatFont, GoFullPage
+
+## Programming languages
+SQL - basics
