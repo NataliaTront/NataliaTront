@@ -28,6 +28,7 @@ I dont't have too much money to do ISTQB certificate so I decide to learn from Y
 
 In progress:
 1. [English fo Computer Science](https://navoica.pl/courses/course-v1:PolitechnikaKrakowska+SJO_4+2022/about) - to improve my English
+2. uTest Academy
 
 ## SKILLS/TECHNOLOGIES
 - English - B1/B2
