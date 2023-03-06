@@ -30,8 +30,8 @@ I don't have too much money to do the ISTQB certificate so I decided to learn fr
 In progress:
 1. [English for Computer Science](https://navoica.pl/courses/course-v1:PolitechnikaKrakowska+SJO_4+2022/about) - to improve my English
 2. uTest Academy
-3. [Mentoriing Cherry-IT](http://cherry-it.pl/)
-4. 
+3. [Mentoring Cherry-IT](http://cherry-it.pl/)
+4. [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/learn/lecture/30197334?start=0#overview)
 
 ## SKILLS/TECHNOLOGIES
 - English - B1/B2
