@@ -25,7 +25,7 @@ I don't have too much money to do the ISTQB certificate so I decided to learn fr
 1. [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/about) - bacic knowledge based on ISTQB Sylabus
 2. [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania) - basic knowlage and some practical skills
 3. [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania) - practical knowledge about software testing
-4. Fundamentals of Software Testing - [QA Test Lab](https://qatestlab.com/) - practical skills of reporting bugs in Mantis, writting test case in TestLink
+4. Fundamentals of Software Testing - [QA Test Lab](https://qatestlab.com/) - practical skills of reporting bugs in Mantis, writing test case in TestLink
 
 In progress:
 1. [English for Computer Science](https://navoica.pl/courses/course-v1:PolitechnikaKrakowska+SJO_4+2022/about) - to improve my English
