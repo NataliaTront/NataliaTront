@@ -25,13 +25,14 @@ I don't have too much money to do the ISTQB certificate so I decided to learn fr
 1. [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/about) - bacic knowledge based on ISTQB Sylabus
 2. [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania) - basic knowlage and some practical skills
 3. [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania) - practical knowledge about software testing
-4. Fundamentals of Software Testing - [QA Test Lab](https://qatestlab.com/) - practical skills of reporting bugs in Mantis, writing test case in TestLink
+4. [Fundamentals of Software Testing - QA Test Lab](https://qatestlab.com/) - practical skills of reporting bugs in Mantis, writing test case in TestLink
+5. [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/learn/lecture/30197334?start=0#overview)
 
 In progress:
 1. [English for Computer Science](https://navoica.pl/courses/course-v1:PolitechnikaKrakowska+SJO_4+2022/about) - to improve my English
 2. uTest Academy
 3. [Mentoring Cherry-IT](http://cherry-it.pl/)
-4. [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/learn/lecture/30197334?start=0#overview)
+4. [Programowanie w języku Python](https://navoica.pl/courses/course-v1:PolitechnikaKrakowska+Python+2022_E4/course/) - to familiarize with the programming language to later start learning test automation
 
 ## SKILLS/TECHNOLOGIES
 - English - B1/B2
